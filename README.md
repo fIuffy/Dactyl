@@ -1,7 +1,7 @@
 # Dactyl: 1.12.2 Forge Utility Mod
 
 **Overview:**  
-Dactyl is a utility mod developed for Minecraft 1.12.2, specifically designed for anarchy servers like 2b2t. While the code is over nine months old and not intended for further updates or maintenance, it remains functional.
+Dactyl is a utility mod developed for Minecraft 1.12.2, specifically designed for anarchy servers like 2b2t. While the code is a few years old and not intended for further updates or maintenance, it remains functional on 1.12.2.
 
 **Key Features:**  
 - Originally a private project, now made public due to a shift in focus away from anarchy.
