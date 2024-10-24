@@ -1,14 +1,18 @@
-<h1>(ARCHIVED) Dactyl: A 1.12.2 Forge (Hacked Client) Utility Mod</h1>
-mainly for anarchy servers, specifically 2b2t.<br>
-very old but somehow still competent.<br>
-the code is 9+ months old, and i do not have 
-intentions of updating/fixing/continuing it.<br>
-author: fluffycq<br>
-<br><br>
-This was a project that used to be private, but I have decided to make public as I do not care for anarchy anymore.<br>
-A lot of the code logic is horrible and can be optimized to be way faster/safer, the base is so simple that it wouldn't be hard.<br>
-Despite a lot of the rumors, this utiliy mod was in fact custom base.<br><br>
-<h3>This is the original GitHub project so older versions are available through commits and may work better for certain servers.<br>(All Versions are 1.12.2)<br><br></h3>
-<h3>Ctrl+c/Ctrl+v credits:</h3> Hexception - OutlineUtils<br> Future 2.10 - Old Future PacketFly<br>3arthqu4ke - (Phobos) i prolly stole some stuff from you idk<br>
+# Dactyl: 1.12.2 Forge Utility Mod
 
-<p><b>I do not thank anyone else besides those involved in this project and I do not plan to involve myself with anarchy in anyway shape or form in the future.</b></p>
+**Overview:**  
+Dactyl is a utility mod developed for Minecraft 1.12.2, specifically designed for anarchy servers like 2b2t. While the code is over nine months old and not intended for further updates or maintenance, it remains functional.
+
+**Key Features:**  
+- Originally a private project, now made public due to a shift in focus away from anarchy.
+- Although the codebase could benefit from optimization, it includes a custom framework distinct from common mods.
+- Contains various components sourced from other projects, including:
+  - **OutlineUtils** by Hexception
+  - **Old Future PacketFly** from Future 2.10
+  - Elements from 3arthqu4ke (Phobos)
+
+**Note:**  
+For those interested, older versions are available through GitHub commits, which may be better suited for specific servers. 
+
+**Acknowledgments:**  
+I appreciate the contributions from those mentioned above and do not plan to engage with anarchy-related projects in the future.
